@@ -123,6 +123,7 @@ AI agents are autonomous systems powered by large language models (LLMs) that ca
 - [Ray](https://github.com/ray-project/ray) - Distributed computing framework for ML workloads.
 - [BentoML](https://github.com/bentoml/BentoML) - Unified framework for building, shipping, and scaling ML services.
 - [Seldon Core](https://github.com/SeldonIO/seldon-core) - ML deployment on Kubernetes.
+- [Open Agent Relay](https://github.com/ShakespeareLabs/open-agent-relay) - Serve existing local agents as LAN-callable capabilities without moving their implementation or credentials.
 
 ### Monitoring & Observability
 - [LangFuse](https://github.com/langfuse/langfuse) - Open-source LLM engineering platform.
