@@ -42,6 +42,7 @@ AI agents are autonomous systems powered by large language models (LLMs) that ca
 - [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want to build, AI asks clarifying questions, then builds it.
 - [MetaGPT](https://github.com/geekan/MetaGPT) - Multi-agent framework that assigns different roles to GPTs to form collaborative software entities.
 - [Goose](https://github.com/block/goose) - Block/Square's open-source AI agent with extensible toolkit system.
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce where a Commander plans goals and coordinates specialist agents through one conversation.
 
 ### Browser & Computer Use Agents
 - [OpenAI Operator](https://openai.com/index/introducing-operator/) - OpenAI's browser automation agent (research preview).
